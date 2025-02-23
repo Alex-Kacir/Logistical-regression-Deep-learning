@@ -8,3 +8,5 @@ To run the logistical regression algorithm:
 6. Optionally there are more features present in the dataset that are not included within the model. To add these features insert the name of the feature in '' on line 13.
 
 Note I wrote this code for the algorithm in machine learning a year and a half ago so I don't remember every function of it. 
+
+Video Going over the model: https://youtu.be/Ke7VbZxaiy0
